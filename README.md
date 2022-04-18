@@ -30,12 +30,6 @@ This is a clone of Internshal website. Internshala is an internship and online t
 - Signup/Login functionality by using MongoDB
 - Dynamic "View details" page for each internship
 
-## Team Members
-
-- [Vishal Kumar Sinha](https://github.com/Vishal062)
-- [Badvel Venkata Srikanth Reddy](https://github.com/SrikanthReddyBV)
-- [Krishna Kumar Keshri](https://github.com/KrishnaKumarKeshri96)
-- [Sarvesh Kumar Sharma](https://github.com/SARVESHSHARMA-SKS)
 
 ## How to use our app?
 - Install git on your machine
